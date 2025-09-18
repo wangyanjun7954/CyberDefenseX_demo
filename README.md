@@ -60,8 +60,13 @@ flowchart TD
 - 🗄️ SQLite  
 
 ---
+## System Architecture
 
-## 🎯 Target Users  
+<img width="2553" height="910" alt="hyperrdefenX" src="https://github.com/user-attachments/assets/ca6227ff-67c6-4063-a63f-2f177acf9b61" />
+
+---
+## 🎯 Target Users
+
 
 - 🛡️ National & Enterprise SOC Teams  
 - 🏛️ Government Cyber Defense Units  
