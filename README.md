@@ -144,7 +144,6 @@ npm start
 
 A big thank you to all the amazing contributors who have helped shape **CyberDefenseX** 🚀  
 
-### Core Contributors
 ## 👨‍💻 Core Contributors  
 
 <table>
