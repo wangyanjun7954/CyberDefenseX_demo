@@ -1,4 +1,4 @@
-# 🚀 CyberDefendX  
+# 🚀 CyberDefenseX - ML and Blockchain powered automated SIEM and SOAR platform
 **Autonomous. Transparent. Unbreakable.**  
 
 > The world’s first **fully autonomous AI + Blockchain + Smart Contract + Self-Healing Cyber Defense System** with analyst-grade explainability and federated global intelligence.  
