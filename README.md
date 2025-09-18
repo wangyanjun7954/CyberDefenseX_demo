@@ -89,7 +89,7 @@ flowchart TD
 ## 📂 Project Structure  
 
 ```
-CyberDefendX/
+CyberDefenseX/
 │
 ├── frontend/                 # ReactJS dashboard (UI)
 │   ├── public/               # Static files
@@ -122,8 +122,8 @@ CyberDefendX/
 
 ```bash
 # Clone repo
-git clone https://github.com/your-username/CyberDefendX.git
-cd CyberDefendX
+git clone https://github.com/your-username/CyberDefenseX.git
+cd CyberDefenseX
 
 # Setup backend
 cd backend
