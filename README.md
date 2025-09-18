@@ -147,11 +147,71 @@ npm start
 
 ---
 
+## 🙌 Honorable Mentions
+
+A big thank you to all the amazing contributors who have helped shape **CyberDefenseX** 🚀  
+
+### Core Contributors
+## 👨‍💻 Core Contributors  
+
+<table>
+  <tr>
+    <td align="center" width="300px">
+      <a href="https://github.com/shuvojitss">
+        <img src="https://github.com/shuvojitss.png" width="100;" alt="Shuvojit"/>
+        <br />
+        <span style="font-size:16px; font-weight:bold;">Shuvojit Samanta</span>
+      </a>
+      <br />
+      <span style="font-size:14px;">Project Architect & AI/ML Engineer</span>
+    </td>
+    <td align="center" width="300px">
+      <a href="https://github.com/gitadak">
+        <img src="https://github.com/gitadak.png" width="100;" alt="Soumyadeep Adak"/>
+        <br />
+        <span style="font-size:16px; font-weight:bold;">Soumyadeep Adak</span>
+      </a>
+      <br />
+      <span style="font-size:14px;">Blockchain & Smart Contracts Developer</span>
+    </td>
+    <td align="center" width="300px">
+      <a href="https://github.com/Piyush-Sarkar">
+        <img src="https://github.com/Piyush-Sarkar.png" width="100;" alt="Piyush Sarkar"/>
+        <br />
+        <span style="font-size:16px; font-weight:bold;">Piyush Sarkar</span>
+      </a>
+      <br />
+      <span style="font-size:14px;">Researcher & Frontend Designer</span>
+    </td>
+    <td align="center" width="300px">
+      <a href="https://github.com/imon005">
+        <img src="https://github.com/imon005.png" width="100;" alt="Imon Purkait"/>
+        <br />
+        <span style="font-size:16px; font-weight:bold;">Imon Purkait</span>
+      </a>
+      <br />
+      <span style="font-size:14px;">Ethical Hacker & Cybersecurity Specialist</span>
+    </td>
+  </tr>
+</table>
+
+
 ## 🤝 Contributing  
 
 Pull requests are welcome! For major changes, please open an issue first to discuss what you would like to change.  
 
 ---
+
+
+### Special Thanks
+- All community testers, researchers, and supporters for making **CyberDefenseX** better each day 🙏  
+
+---
+
+## 🌟 Contribute
+Want to see your name here?  
+Check out our [Contributing Guide](CONTRIBUTING.md) and join the mission!
+
 
 ## 📄 License  
 
