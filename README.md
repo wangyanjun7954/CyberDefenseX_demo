@@ -16,18 +16,11 @@
 ✅ **One-Click Compliance Reporting** – SOC2, ISO27001, NIST with forensic replay  
 
 ---
+## System Architecture
 
-## 🏗️ Architecture  
+<img width="2553" height="910" alt="hyperrdefenX" src="https://github.com/user-attachments/assets/ca6227ff-67c6-4063-a63f-2f177acf9b61" />
 
-```mermaid
-flowchart TD
-    A[Data Ingestion] --> B[AI Decision Engine]
-    B --> C[SOAR++ & Smart Contract Layer]
-    C --> D[Blockchain Fabric]
-    B --> E[Federated Intelligence Layer]
-    A --> F[ZTA Gateway]
-    B --> G[Compliance & Forensics Center]
-```
+---
 
 1. **Data Ingestion** – Syslog, Cloud, Endpoint, IoT/OT agents, APIs  
 2. **AI Decision Engine** – Hybrid anomaly detection + behavior rules + XAI  
@@ -60,11 +53,28 @@ flowchart TD
 - 🗄️ SQLite  
 
 ---
-## System Architecture
+## 🏗️ Flow Diagram  
+```mermaid
+flowchart TD
+    A[Data Ingestion <br/> Syslog • Cloud • Endpoint • IoT/OT • APIs]
+    B[AI Decision Engine <br/> Anomaly Detection • Behavior Rules • XAI]
+    C[SOAR++ & Smart Contract Layer <br/> Visual Playbooks • Autonomous Response]
+    D[Blockchain Fabric <br/> Ethereum • Hyperledger • IPFS • Merkle Hashing]
+    E[Federated Intelligence Layer <br/> Privacy-Safe Global Model Sharing]
+    F[ZTA Gateway <br/> Adaptive Access • Risk Scoring • Continuous Auth]
+    G[Compliance & Forensics Center <br/> SOC2 • ISO27001 • NIST • Replay]
 
-<img width="2553" height="910" alt="hyperrdefenX" src="https://github.com/user-attachments/assets/ca6227ff-67c6-4063-a63f-2f177acf9b61" />
+    A --> B
+    B --> C
+    C --> D
+    B --> E
+    B --> F
+    B --> G
 
----
+
+
+```
+
 ## 🎯 Target Users
 
 
