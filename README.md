@@ -42,9 +42,6 @@
 🧠 XAI: SHAP, LIME, Attention Models                              | 📦 IPFS  
 🌐 Scapy (network traffic analysis)                               | 🗄️ SQLite  
 
-
-
-
 ---
 ## 🏗️ Flow Diagram  
 ```mermaid
@@ -203,7 +200,6 @@ Pull requests are welcome! For major changes, please open an issue first to disc
 ## 🌟 Contribute
 Want to see your name here?  
 Check out our [Contributing Guide](CONTRIBUTING.md) and join the mission!
-
 
 ## 📄 License  
 
