@@ -34,23 +34,16 @@
 
 ## 🛠️ Tech Stack  
 
-**Frontend**  
-- ⚛️ ReactJS  
+**Frontend + Backend/AI**                                         | **Blockchain + Database**
+------------------------------------------------------------------|--------------------------------------
+⚛️ ReactJS                                                        | 🔗 Solidity  
+🐍 Python: Flask, FastAPI                                         | 🌍 Web3  
+📊 Scikit-learn, Pandas, NumPy                                    | ⛓️ Ethereum / Hyperledger Fabric  
+🧠 XAI: SHAP, LIME, Attention Models                              | 📦 IPFS  
+🌐 Scapy (network traffic analysis)                               | 🗄️ SQLite  
 
-**Backend & AI**  
-- 🐍 Python: Flask, FastAPI  
-- 📊 Scikit-learn, Pandas, NumPy  
-- 🧠 XAI: SHAP, LIME, Attention Models  
-- 🌐 Scapy (network traffic analysis)  
 
-**Blockchain & Smart Contracts**  
-- 🔗 Solidity  
-- 🌍 Web3  
-- ⛓️ Ethereum / Hyperledger Fabric  
-- 📦 IPFS  
 
-**Database**  
-- 🗄️ SQLite  
 
 ---
 ## 🏗️ Flow Diagram  
