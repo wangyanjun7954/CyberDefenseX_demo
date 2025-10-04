@@ -5,7 +5,7 @@
 
 ---
 
-## ✨ Core Capabilities  
+## ✨ Core Capabilities  <a href="https://deepwiki.com/cyberhub2025/CyberDefenseX_demo"><img src="https://deepwiki.com/badge.svg" alt="Ask DeepWiki"></a>
 ✅ **90%+ Analyst-Free SOC Automation** – AI-driven triage, response, and reporting  
 ✅ **Explainable AI (XAI)** – attention-based models, LIME, SHAP, and interactive heatmaps  
 ✅ **Blockchain + Smart Contracts** – tamper-proof logging + autonomous SOAR workflows  
