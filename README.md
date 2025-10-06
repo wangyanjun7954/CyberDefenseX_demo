@@ -4,6 +4,7 @@
 > The world’s first **fully autonomous AI + Blockchain + Smart Contract + Self-Healing Cyber Defense System** with analyst-grade explainability and federated global intelligence.  
 
 ---
+![ss](https://github.com/user-attachments/assets/d826a25a-fb8e-4b3d-be29-0c48eb823dbf)
 
 ## ✨ Core Capabilities  <a href="https://deepwiki.com/cyberhub2025/CyberDefenseX_demo"><img src="https://deepwiki.com/badge.svg" alt="Ask DeepWiki"></a>
 ✅ **90%+ Analyst-Free SOC Automation** – AI-driven triage, response, and reporting  
