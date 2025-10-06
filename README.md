@@ -1,11 +1,9 @@
 # 🚀 CyberDefenseX - ML and Blockchain powered automated SIEM and SOAR platform
 **Autonomous. Transparent. Unbreakable.**  
-
 > The world’s first **fully autonomous AI + Blockchain + Smart Contract + Self-Healing Cyber Defense System** with analyst-grade explainability and federated global intelligence.  
 
+![Social Media (4)](https://github.com/user-attachments/assets/315a9f53-83f1-4a97-9c62-73e65308c705)
 ---
-![ss](https://github.com/user-attachments/assets/d826a25a-fb8e-4b3d-be29-0c48eb823dbf)
-
 ## ✨ Core Capabilities  <a href="https://deepwiki.com/cyberhub2025/CyberDefenseX_demo"><img src="https://deepwiki.com/badge.svg" alt="Ask DeepWiki"></a>
 ✅ **90%+ Analyst-Free SOC Automation** – AI-driven triage, response, and reporting  
 ✅ **Explainable AI (XAI)** – attention-based models, LIME, SHAP, and interactive heatmaps  
